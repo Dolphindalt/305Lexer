@@ -1,0 +1,1 @@
+define,+,/,*,-,cons,append,car,cdr,list,boolean?,equal?,list?,null?,number?,=,<,<=,>

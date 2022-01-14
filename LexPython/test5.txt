@@ -1,0 +1,5 @@
+; fifth test case are there errors?  
+(append (cdr '(#t #f )) '())
+(cons  (equal? #b101 #o377+002i) (list #d78 78.0 #xb.a+ffi))
+(null? (number? #xff/a+a/ai))
+(++% 005x 5i .5)

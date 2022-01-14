@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexicalAnalyzer", "LexicalAnalyzer\LexicalAnalyzer.csproj", "{CEB16DB3-4601-4A8A-936F-9C7482F814CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5B98466E-B151-4231-9731-9AF6CFBA9823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB16DB3-4601-4A8A-936F-9C7482F814CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB16DB3-4601-4A8A-936F-9C7482F814CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB16DB3-4601-4A8A-936F-9C7482F814CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB16DB3-4601-4A8A-936F-9C7482F814CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982611BE-022E-408A-BD3A-8FA8ED03B8A9}
+	EndGlobalSection
+EndGlobal

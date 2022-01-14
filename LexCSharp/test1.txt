@@ -1,0 +1,4 @@
+; first test case and should not contain any errors. 
+(define x "hello world +-<>=?")
+x
+; that was it.

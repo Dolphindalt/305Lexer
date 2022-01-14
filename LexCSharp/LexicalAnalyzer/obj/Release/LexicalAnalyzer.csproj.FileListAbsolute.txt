@@ -1,0 +1,17 @@
+D:\Visual\LexCSharp\LexicalAnalyzer\bin\Release\fwalk.mp4
+D:\Visual\LexCSharp\LexicalAnalyzer\bin\Release\LexicalAnalyzer.exe.config
+D:\Visual\LexCSharp\LexicalAnalyzer\bin\Release\LexicalAnalyzer.exe
+D:\Visual\LexCSharp\LexicalAnalyzer\bin\Release\LexicalAnalyzer.pdb
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\MainWindow.g.cs
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\App.g.cs
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\LexicalAnalyzer_Content.g.cs
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\LexicalAnalyzer_MarkupCompile.cache
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\LexicalAnalyzer_MarkupCompile.lref
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\MainWindow.baml
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\LexicalAnalyzer.g.resources
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\LexicalAnalyzer.Properties.Resources.resources
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\LexicalAnalyzer.Resources.resources
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\LexicalAnalyzer.csproj.GenerateResource.cache
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\LexicalAnalyzer.csproj.CoreCompileInputs.cache
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\LexicalAnalyzer.exe
+D:\Visual\LexCSharp\LexicalAnalyzer\obj\Release\LexicalAnalyzer.pdb

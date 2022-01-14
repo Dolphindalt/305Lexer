@@ -1,0 +1,3 @@
+; fourth test case contains an error
+ (append (list 3 4) (list #o779 6 'a 'b) (list) (cons #\x '(1 2 3) )
+(define #x 33)

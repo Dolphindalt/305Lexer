@@ -1,0 +1,3 @@
+; third test case with an error, it is not the extra parenthesis it is 
+; \ occuring within a string
+ (equal?  (boolean? "what///%\")  (number?   '%)))
